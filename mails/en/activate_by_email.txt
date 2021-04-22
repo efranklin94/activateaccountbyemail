@@ -1,0 +1,7 @@
+{shop_url}
+
+Hi {firstname} {lastname},
+
+To activate your account click on the following link: {email}
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
